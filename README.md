@@ -31,6 +31,11 @@ vagrant up
 php artisan migrate
 ```
 
+> *(Optional) after migration complete you can seed user data as I have already prepared for you just run code below *
+```
+php artisan db:seed
+```
+
 End of installation have fun!
 
 ## Usage
