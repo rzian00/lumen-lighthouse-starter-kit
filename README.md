@@ -26,7 +26,7 @@ php vendor/bin/homestead make
 vagrant up
 ```
 
-> *Once vagrant is running migrate your database tables*
+> *Once vagrant is running migrate your database tables (optional)*
 ```
 php artisan migrate
 ```
