@@ -1,0 +1,8 @@
+/vendor
+/.idea
+/.vagrant
+Vagrantfile
+after.sh
+Homestead.json
+Homestead.yaml
+.phpunit.result.cache
