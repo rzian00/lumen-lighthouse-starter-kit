@@ -8,12 +8,12 @@ In your command line write as follows:
 
 > *Clone the repo*
 ```
-git clone https://github.com/rzian00/lumen-lighthouse-starter-kit.git lumen-lighthouse-starter-kit
+git clone https://github.com/rzian00/lumen-lighthouse-starter-kit.git lumen-lighthouse-api
 ```
 
-> *Download vendors*
+> *Change directory and install vendors*
 ```
-composer install
+cd lumen-lighthouse-api && composer install
 ```
 
 > *Generate Homestead.yaml for your vagrant and make sure you configure it*
