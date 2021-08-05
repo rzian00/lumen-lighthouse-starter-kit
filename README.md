@@ -26,12 +26,12 @@ php vendor/bin/homestead make
 vagrant up
 ```
 
-> *(Optional) Once vagrant is running migrate your database tables *
+> * (Optional) Once vagrant is running migrate your database tables *
 ```
 php artisan migrate
 ```
 
-> *(Optional) after migration complete you can seed user data as I have already prepared for you just run code below *
+> * (Optional) after migration completed you can seed user data as I have already prepared for you just run code below *
 ```
 php artisan db:seed
 ```
